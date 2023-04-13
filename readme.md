@@ -10,9 +10,9 @@ This is a simple web application that shows the weather forecast for the next 5 
 - For sky condition, a set of images is displayed showing the sky condition for each day
 
 ## Screenshots
-- Temperatures
+- Temperatures <br>
 ![1](https://user-images.githubusercontent.com/114332208/231746206-d9e13215-a228-4330-aa4a-3154cab2ecb5.png)
-- Sky Conditions
+- Sky Conditions <br>
 ![2](https://user-images.githubusercontent.com/114332208/231746252-5df72c0d-c476-4800-a775-ace6c60553fd.png)
 
 
